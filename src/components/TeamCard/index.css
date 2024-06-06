@@ -1,0 +1,13 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  width: 50%;
+  flex-wrap: wrap;
+}
+.card-logo {
+  height: 100px;
+  width: 100px;
+}
+.paragraph {
+  color: #ffffff;
+}
